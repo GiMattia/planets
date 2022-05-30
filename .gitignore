@@ -1,2 +1,5 @@
+# this is a comment line. The ! excludes a file from the ignore. Be careful, the order of lines is important!!
+
 *.out
 moons/
+!a.out
